@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", geneva, arial, sans-serif;
+  color: #555;
+  /* background-color: rgba(213,222,231,0.4); */
+}
+h1,h2,h3,h4 {
+	color: #164d89;                                                                                
+}
+h1 {
+  font-size: 22px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 20px;
+}
+h2,
+h3 {
+	font-weight: normal;
+}
+a:link,
+a:visited {
+  color: #0f3e73;
+}
+.content {
+  position: relative;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: calc(100% - 10px);
+  padding: 11px 11px;
+}
+.contact .content {
+	min-height: 100%;
+}
+.guidelines ul {
+	padding-left: 0;
+}
+.guidelines ul li {
+	list-style: none;
+	display: block;
+	margin-bottom: 0.5em;
+	padding: 0.5em;
+	background-color: rgba(255,255,255,0.8);
+	box-shadow: 0 0 1px rgba(0,0,0,0.3);
+}
+.guidelines ul li strong {
+	color: #164d89;
+}
+.note {
+  color: #fff;
+	padding: 0.5em;
+	background-color: #b31943;
+	box-shadow: 0 0 1px rgba(0,0,0,0.3);
+}
+ .vcard .fn {
+	margin: 0.5em auto 0;
+	width: 114px;
+    opacity: 0.80;
+}
+.ipad .vcard .fn {
+    margin: 20px auto;
+	width: 228px;
+}
+.vcard .tel,
+.vcard #email,
+.vcard #url {
+    text-align: center;
+    color: #e0e8ef;
+}
+.vcard a:link,
+.vcard a:visited {
+  color: #e0e8ef;
+}
+
+@media screen and (min-width: 720px) {
+
+  .vcard .tel,
+  .vcard #email,
+  .vcard #url {
+    font-size: 20px;
+  }
+}

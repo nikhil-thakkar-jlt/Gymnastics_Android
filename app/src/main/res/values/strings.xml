@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gymnastics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="guideline_menu">Guidelines</string>
+    <string name="add_checklist_menu">New</string>
+    <string name="claims">Claims</string>
+    <string name="Teams">Teams</string>
+
+    <!--Tab Text-->
+    <string name="tab_contact_us">Contact Us</string>
+    <string name="tab_guidelines">Guidelines</string>
+    <string name="tab_checklist">Checklist</string>
+
+
+    <!-- CHECKLIST DIALOG -->
+    <string name="clDiagTitle">New Checklist</string>
+    <string name="clDiagMsg">This will delete the current incomplete checklist do you wish to continue?</string>
+    <!-- CHECKLIST DIALOG -->
+
+
+    <!-- HOME PAGE SECTION -->
+    <string name="HmeState">Home State</string>
+    <string name="HmeAssoc">Home Association</string>
+    <string name="HmeClb">Home Club</string>
+    <string name="HmeTeam">Home Team</string>
+    <string name="HmeTeamHint">e.g. Under 18s</string>
+    <string name="SchoolClinicHint">Enter school name here</string>
+    <string name="SchoolAssociation">Non Community Football</string>
+
+    <string name="EventType">Event Type</string>
+    <string name="EventMatch">Match</string>
+    <string name="EventSchool">School Clinic</string>
+    <string name="EventTraining">Training</string>
+
+
+    <string name="SelHmeState">Select Home State</string>
+    <string name="SelHmeAssoc">Select Home Association</string>
+    <string name="SelHmeClb">Select Home Club</string>
+    <!-- HOME PAGE SECTION -->
+
+    <!-- AWAY PAGE SECTION -->
+    <string name="AwyState">Away State</string>
+    <string name="AwyAssoc">Away Association</string>
+    <string name="AwyClb">Away Club</string>
+    <string name="AwyTeam">Away Team</string>
+
+    <string name="SelAwyState">Select Away State</string>
+    <string name="SelAwyAssoc">Select Away Association</string>
+    <string name="SelAwyClb">Select Away Club</string>
+
+    <!-- AWAY PAGE SECTION -->
+
+    <!-- VENUE PAGE SECTION -->
+    <string name="Venue">Venue</string>
+    <string name="MtchVenue">Match Venue</string>
+    <string name="InspectionDate">Inspection Date</string>
+    <string name="InspectionTime">Inspection Time</string>
+    <!-- VENUE PAGE SECTION -->
+
+    <!-- WEATHER PAGE SECTION -->
+    <string name="Weather">Weather</string>
+    <string name="WeatherQuestion">In regard to player safety, are the weather conditions satisfactory for play to commence?</string>
+    <!-- WEATHER PAGE SECTION -->
+
+    <!-- FIELD PAGE SECTION -->
+    <string name="Field">Field of Play</string>
+    <string name="FieldQuestion1">In regard to player safety, are the playing surface (including field and pitch) satisfactory for play to commence?</string>
+    <string name="FieldQuestion2">Has all visible debris, that may affect player safety, been removed?</string>
+    <string name="FieldQuestion3">Are the game formats and ground markings in line with the AFL "Laws of the Game"?</string>
+    <string name="FieldQuestion4">Are all sprinkler covers intact and level with the playing field?</string>
+    <string name="FieldQuestion5">In regard to player safety, are the perimeter fences and/or signs free from visible hazards?</string>
+    <!-- FIELD PAGE SECTION -->
+
+
+    <!-- RADIO GRP OPTIONS -->
+    <string name="YesOption">Yes (Acceptable)</string>
+    <string name="NoOption">No (Action Required)</string>
+    <!-- RADIO GRP OPTIONS -->
+
+
+    <!-- FACILITIES SECTION -->
+    <string name="Facilities">Facilities</string>
+    <string name="FaclQuestion1">In regard to player safety, are the public areas (e.g. seating and walkways) free of visible hazards?</string>
+    <string name="FaclQuestion2">In regard to player safety, are the players\' areas (e.g. change rooms) free from visible hazards?</string>
+    <string name="FaclQuestion3">Are First Aid facilities (e.g. First Aid kit, qualified personnel and ice) on site and accessible?</string>
+    <!-- FACILITIES SECTION -->
+
+    <!-- DECLARATIONS SECTION -->
+    <string name="Declarations">Declarations</string>
+    <string name="DeclQuest">Who Completes this Checklist?</string>
+    <string name="HomeTeamDeclbrief">As the Home club is responsible to ensure the greater environment of the venue is safe for members and guests, an authorised (18+ years of age) Home club representative should complete this online checklist.</string>
+    <string name="AwayTeamDeclbrief">As the Away club players are encouraged to participate in the game under the same conditions, an authorised (18+ years of age) Away club representative should also acknowledge this online checklist.</string>
+    <string name="DeclHmeTARName">Home Team Authorised Rep Name</string>
+    <string name="DeclAwyTARName">Away Team Authorised Rep Name</string>
+    <string name="DeclPosAtClb">Position at Club</string>
+    <string name="AuthRepDecl">I/We declare that I/We are authorised representatives of the nominated teams.</string>
+    <string name="Decl">I/We declare that, after reasonable inquiry, the following statements are true and accurate:\n\nA. All hazards, risks and safety concerns have been addressed to an acceptable level and recorded here.\n\nB. I/We are satisfied that the playing conditions are acceptable prior to the commencement of play.</string>
+    <!--  	<string name="DeclA">A. All hazards, risks and safety concerns have been addressed to an acceptable level and recorded here.</string>
+         <string name="DeclB">B. Both teams are satisfied that the playing conditions are acceptable prior to the commencement of play.</string>  -->
+    <!-- DECLARATIONS SECTION -->
+
+    <!-- EMAIL SECTION -->
+    <string name="EmailCheckbox">Email this checklist?</string>
+    <string name="PrimaryEmail">E-mail Address</string>
+    <string name="SecondaryEmail">Second E-mail Address (optional)</string>
+    <!-- EMAIL SECTION -->
+
+
+    <!-- ACTIONS SECTION -->
+    <string name="Actions">Actions</string>
+    <string name="ActionDesc">Please provide details of actions taken to address the following safety concerns:</string>
+    <!-- ACTIONS SECTION -->
+
+    <!-- PHOTO SECTION -->
+    <string name="DeletePhoto">Delete</string>
+    <string name="galleryPhoto">Gallery</string>
+    <string name="cameraPhoto">Camera</string>
+    <string name="enableSelectPhoto">Select</string>
+    <string name="disableSelectPhoto">Cancel</string>
+    <string name="donePhoto">Done</string>
+    <!-- PHOTO SECTION -->
+
+    <!-- PAGE NAVIGATION BUTTONS -->
+    <string name="Back">Back</string>
+    <string name="Next">Next</string>
+    <string name="Submit">Submit</string>
+    <!-- PAGE NAVIGATION BUTTONS -->
+
+
+    <string-array name="action_items">
+        <item>Weather conditions</item>
+        <item>Playing surfaces</item>
+        <item>Visible debris</item>
+        <item>Game formats &amp; ground markings</item>
+        <item>Sprinkler covers</item>
+        <item>Perimeter fences &amp; signs</item>
+        <item>Public areas</item>
+        <item>Players\' areas</item>
+        <item>First Aid facilities</item>
+    </string-array>
+
+    <!-- COMPLETED CHECKLIST -->
+    <string name="Weather1">Weather conditions satisfactory?</string>
+
+    <string name="Field1">Playing surfaces satisfactory?</string>
+    <string name="Field2">Visible debris removed?</string>
+    <string name="Field3">Game formats &amp; ground markings satisfactory?</string>
+    <string name="Field4">Sprinkler covers intact?</string>
+    <string name="Field5">Perimeter fences &amp; signs satisfactory?</string>
+
+    <string name="Facilities1">Public areas safe?</string>
+    <string name="Facilities2">Players\' areas safe?</string>
+    <string name="Facilities3">First Aid facilities accessible?</string>
+
+    <string name="Photos">Photos</string>
+
+    <string name="SendEmail">Send Email</string>
+    <string name="EmailInfo">A copy of this completed checklist can be emailed to a third party if required. Please click the button below to enter a new email address.</string>
+
+    <string name="ClubDetails">Club Details</string>
+
+
+    <!-- COMPLETED CHECKLIST -->
+
+
+    <string name="metadata_fetch_title">Initialising App</string>
+    <string name="metadata_sync_title">Synchronising Club Data</string>
+    <string name="metadata_sync_msg">Please wait &#8230;&#8230;</string>
+
+
+    <string name="nothing_selected">Select</string>
+    <string name="listFilterString">Type to search &#8230;&#8230;</string>
+    <string name="metadata_err_msg">This app requires internet connection for fetching Club Data.</string>
+    <string name="no_internet_msg">No Internet Access!! Cannot submit Checklist to Server.</string>
+    <string name="submit_checklist_failed_msg">Submission failed.\n Your checklist was NOT submitted.\n Please try again later.</string>
+    <string name="submit_email_failed_msg">Submission failed.\n Email could not be sent.\n Please try again later.</string>
+    <string name="validation_err_msg">Please fill out the marked fields.</string>
+    <string name="validation_err_email">Please enter a valid email address.</string>
+    <string name="validation_err_title">Sorry!</string>
+    <string name="play_services">Google Play Services</string>
+    <string name="play_services_err">This app requires Google Play Services to access location information. Click OK to install.</string>
+    <string name="app_brief_title">Australian Football\nNational Risk Protection\nProgramme</string>
+    <string name="checklist_title">Checklist</string>
+    <string name="checklist_submit_title">Checklist Submitted</string>
+
+</resources>
+

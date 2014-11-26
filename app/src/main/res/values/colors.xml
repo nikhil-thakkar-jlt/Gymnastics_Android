@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="trans_white">#70F0F0F0</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="darkgrey">#555555</color>
+
+    <color name="mediumgrey">#888888</color>
+    <color name="lightgrey">#D0D0D0</color>
+    <color name="maroon">#800000</color>
+
+    <color name="btn_stroke">#B8B8B8</color>
+    <color name="themecolor">#194775</color>
+    <color name="lightbluetheme">#B0C4DE</color>
+    <color name="blueselectedbtn">#0099CC</color>
+    <color name="yes_green">#4E9D13</color>
+    <color name="no_red">#A7132B</color>
+</resources>
